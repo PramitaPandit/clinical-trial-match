@@ -2,7 +2,7 @@
 
 **AI-powered platform connecting patients to life-saving clinical trials in seconds.**
 
-[Live Demo](https://your-app-name.streamlit.app) · [Codex Creator Challenge 2025](https://codex.com)
+[Live Demo](https://clinical-trial-match-9glva4mtrmmdvbrn4yxwzk.streamlit.app/) · [Codex Creator Challenge 2026](https://codex.com)
 
 ---
 
